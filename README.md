@@ -16,3 +16,4 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application designed for se
 - **Database:** MongoDB for storing and managing application data.
 - **Authentication:** JSON Web Tokens (JWT) for secure user sessions.
 
+Live demo: [Sentinel](https://sentinel-ie0i.onrender.com/)
