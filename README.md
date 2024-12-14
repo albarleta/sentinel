@@ -1,4 +1,4 @@
-# Document Tracker
+# Sentinel - Document Tracker
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application designed for secure and efficient document tracking and management.
 
